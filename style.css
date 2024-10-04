@@ -1,0 +1,24 @@
+h2 {
+    color: rgb(2, 2, 104);
+    text-decoration: overline;
+}
+
+body {
+   background-image: url(b6.jpg);}
+   input[type="text"]
+    {
+        color: black ; 
+    }   
+    input [type="email"]
+    {
+        color: black ;
+    }
+    ul > li 
+    {
+        text-decoration: underline;
+        color: rgb(3, 3, 95);
+    }
+    ol > li 
+    {
+        color: maroon
+    }
