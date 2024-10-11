@@ -4,21 +4,24 @@ h2 {
 }
 
 body {
-   background-image: url(b6.jpg);}
-   input[type="text"]
-    {
-        color: black ; 
-    }   
-    input [type="email"]
-    {
-        color: black ;
-    }
-    ul > li 
-    {
-        text-decoration: underline;
-        color: rgb(3, 3, 95);
-    }
-    ol > li 
-    {
-        color: maroon
-    }
+   background-image: url(b6.jpg);
+}
+input[type="text"] {
+    border: 2px solid green;
+}   
+input [type="email"] {
+    border: 2px solid navy;
+}
+ul > li {
+    text-decoration: underline;
+    color: rgb(3, 3, 95);
+}
+ol > li {
+    color: maroon
+}
+.main > p {
+    color: blue;
+}
+.main > h2 {
+    color: red;
+}
